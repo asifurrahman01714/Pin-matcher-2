@@ -32,6 +32,8 @@ digitsContainer.addEventListener('click', function (event) {
     }
 })
 
+
+
 function matchPin() {
     const pinInput = document.getElementById('pin').value;
     const typeInput = document.getElementById('typeInput').value;
